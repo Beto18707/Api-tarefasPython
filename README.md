@@ -79,8 +79,7 @@ Resposta de Exemplo (204 No Content)
 📂 Estrutura do Projeto.
 
 ├── src/
-│   
-├── controllers/    
+│   ├── controllers/    
 │   ├── models/       
 │   ├── routes/         
 │   ├── services/  
