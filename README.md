@@ -77,6 +77,7 @@ Host: localhost:[PORTA_DA_API]
 Resposta de Exemplo (204 No Content)
 
 📂 Estrutura do Projeto.
+
 ├── src/
 │   ├── controllers/    
 │   ├── models/       
